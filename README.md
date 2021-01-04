@@ -1,3 +1,7 @@
+# Fantasy-cricket
+
+### A simple functionality implementation of adding and removing a player from a fantasy cricket team
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
